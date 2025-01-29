@@ -11,7 +11,7 @@ it initialise the git .
 2.git clone :
 
    the git clone is the second step of the repository. It clone the assignment.
-cloning the git -> git clone https://github.com/Vikku03/motion-git-assignment_2.git 
+cloning the git -> git clone https://github.com/user/motion-git-assignment_2.git 
 
 
 3.cd assignment name:
