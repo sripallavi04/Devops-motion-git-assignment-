@@ -49,6 +49,25 @@ in this we enter the data in the notepad that we want to enter .
 10.collaborator:
 
     in this we collaborate some people which can use our project .
+
+
+
+INSTALLATION INSTRUCTIONS ABOUT THE GITHHUB:
+   
+   1.Visit the download page for GitHub Desktop.
+   2.Click Download for windows.
+   3.In your computers downloads folder, double-click the GitHub desktop setup file.
+   4.GitHub desktop will launch after installation is complete.
+
+ 
+  GITHUB USES:
+   
+  1.Allows user to create, store, and collaborate on files and code.
+  2.In GitHub we can access the code which is created by the other one , where that code is
+    use for people who are in practice of that coding language.
+  3.In GitHub we can store any programing language like C, C++, JAVA, HTML....etc.       
+
+
  
 
 
